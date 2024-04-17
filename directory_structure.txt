@@ -1,0 +1,6 @@
+Folder PATH listing for volume OS
+Volume serial number is B624-027E
+C:\USERS\DIOGO\DOCUMENTS\ISEC\POO\TP2223\1
+Invalid path - \USERS\DIOGO\DOCUMENTS\ISEC\POO\TP2223\1
+No subfolders exist 
+

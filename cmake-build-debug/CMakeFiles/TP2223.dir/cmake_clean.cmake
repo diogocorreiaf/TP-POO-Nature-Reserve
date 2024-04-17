@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/TP2223.dir/Animal.cpp.obj"
+  "CMakeFiles/TP2223.dir/Animal.cpp.obj.d"
+  "CMakeFiles/TP2223.dir/Bife.cpp.obj"
+  "CMakeFiles/TP2223.dir/Bife.cpp.obj.d"
+  "CMakeFiles/TP2223.dir/Canguru.cpp.obj"
+  "CMakeFiles/TP2223.dir/Canguru.cpp.obj.d"
+  "CMakeFiles/TP2223.dir/Cenoura.cpp.obj"
+  "CMakeFiles/TP2223.dir/Cenoura.cpp.obj.d"
+  "CMakeFiles/TP2223.dir/Coelho.cpp.obj"
+  "CMakeFiles/TP2223.dir/Coelho.cpp.obj.d"
+  "CMakeFiles/TP2223.dir/Corpo.cpp.obj"
+  "CMakeFiles/TP2223.dir/Corpo.cpp.obj.d"
+  "CMakeFiles/TP2223.dir/Food.cpp.obj"
+  "CMakeFiles/TP2223.dir/Food.cpp.obj.d"
+  "CMakeFiles/TP2223.dir/Interface.cpp.obj"
+  "CMakeFiles/TP2223.dir/Interface.cpp.obj.d"
+  "CMakeFiles/TP2223.dir/Lobo.cpp.obj"
+  "CMakeFiles/TP2223.dir/Lobo.cpp.obj.d"
+  "CMakeFiles/TP2223.dir/Ovelha.cpp.obj"
+  "CMakeFiles/TP2223.dir/Ovelha.cpp.obj.d"
+  "CMakeFiles/TP2223.dir/Relva.cpp.obj"
+  "CMakeFiles/TP2223.dir/Relva.cpp.obj.d"
+  "CMakeFiles/TP2223.dir/Reserva.cpp.obj"
+  "CMakeFiles/TP2223.dir/Reserva.cpp.obj.d"
+  "CMakeFiles/TP2223.dir/Storage.cpp.obj"
+  "CMakeFiles/TP2223.dir/Storage.cpp.obj.d"
+  "CMakeFiles/TP2223.dir/Utils.cpp.obj"
+  "CMakeFiles/TP2223.dir/Utils.cpp.obj.d"
+  "CMakeFiles/TP2223.dir/main.cpp.obj"
+  "CMakeFiles/TP2223.dir/main.cpp.obj.d"
+  "TP2223.exe"
+  "TP2223.exe.manifest"
+  "TP2223.pdb"
+  "libTP2223.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/TP2223.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

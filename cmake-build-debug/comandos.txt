@@ -1,0 +1,4 @@
+animal o 5 5
+animal c 2 3
+food r 1 4
+food t 2 1
